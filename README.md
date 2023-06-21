@@ -1,1 +1,1 @@
-# asd
+a short-term housing rental that has different access type for each of (hosts-travellers-admin), So it allows hosts to enter information about the place, travelers to search for a convenient place to rent, and admin be able to access, modify or view any data
